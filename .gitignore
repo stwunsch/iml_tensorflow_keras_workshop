@@ -1,0 +1,10 @@
+*.swp
+*.swo
+*.pyc
+*.pickle
+*.h5
+.ipy*
+*.csv
+*.png
+*.tmp
+py2_virtualenv/
